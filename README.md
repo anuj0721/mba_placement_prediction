@@ -63,7 +63,7 @@ For both the problems, I have done separate EDA and feature selection.
 - Open the [Deploy an app](https://share.streamlit.io/deploy) page of Streamlit.
 - Enter the GitHub repository details in which the streamlit_app.py file and model binaries are stored.
 - Click on Deploy button.
-- Open the URL https://share.streamlit.io/anuj0721/mba_placement_prediction/ to run and test the app.
+- Open the URL https://share.streamlit.io/anuj0721/mba_placement_prediction/master to run and test the app.
 
 ## Status Prediction Results
 
