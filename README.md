@@ -47,13 +47,13 @@ For both the problems, I have done separate EDA and feature selection.
 - Build the docker image using
 
   ```bash
-  sudo docker build -t mba_placement .
+  docker build -t mba_placement .
   ```
 
 - Run the docker container using
 
   ```bash
-  sudo docker run -p 5000:5000 mba_placement
+  docker run -p 5000:5000 mba_placement
   ```
 
 - Open the URL http://localhost:5000/ to run and test the app.
